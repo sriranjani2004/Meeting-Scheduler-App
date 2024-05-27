@@ -42,7 +42,7 @@ import {
                 <Img
                   style={image}
                   width={620}
-                  src={'https://yt3.googleusercontent.com/LtM9aKdQGsx4SyoAvnBSOxxoTXlqgUUr9iQJveGRmrzMIdjONEToRJ6mT6ysmKog9AaKast3IGY=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj'}
+                  src={''}
                 />
               </Row>
   
@@ -109,7 +109,7 @@ import {
               <Img
                 style={image}
                 width={620}
-                src={'https://yt3.googleusercontent.com/LtM9aKdQGsx4SyoAvnBSOxxoTXlqgUUr9iQJveGRmrzMIdjONEToRJ6mT6ysmKog9AaKast3IGY=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj'}
+                src={''}
               />
             </Section>
   
